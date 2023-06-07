@@ -1,1 +1,2 @@
-./start_cargo/target
+# delete output files
+/start_cargo/target
